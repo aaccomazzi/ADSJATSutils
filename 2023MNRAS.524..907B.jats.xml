@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "https://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher">MNRAS</journal-id>
+<issn>0035-8711</issn>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="bibcode">2023MNRAS.524..907B</article-id>
+<article-id pub-id-type="doi">10.1093/mnras/stad1771</article-id>
+<title-group>
+<article-title>Spatially resolved mock observations of stellar kinematics: full radiative transfer treatment of simulated galaxies</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Barrientos Acevedo</surname>
+<given-names>Daniela</given-names>
+</name>
+<aff>Ghent University, Department of Physics and Astronomy; European Southern Observatory, Germany</aff>
+<contrib-id contrib-id-type="orcid">0000-0002-1710-1460</contrib-id>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>van der Wel</surname>
+<given-names>Arjen</given-names>
+</name>
+<aff>Ghent University, Department of Physics and Astronomy</aff>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Baes</surname>
+<given-names>Maarten</given-names>
+</name>
+<aff>Ghent University, Department of Physics and Astronomy</aff>
+<contrib-id contrib-id-type="orcid">0000-0002-3930-2757</contrib-id>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Grand</surname>
+<given-names>Robert J. J.</given-names>
+</name>
+<aff>Astrophysical Institute of the Canaries; University of La Laguna, Department of Astrophysics; Liverpool John Moores University, Astrophysics Research Institute</aff>
+<contrib-id contrib-id-type="orcid">0000-0001-9667-1340</contrib-id>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kapoor</surname>
+<given-names>Anand Utsav</given-names>
+</name>
+<aff>Ghent University, Department of Physics and Astronomy</aff>
+<contrib-id contrib-id-type="orcid">0000-0002-5187-1725</contrib-id>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Camps</surname>
+<given-names>Peter</given-names>
+</name>
+<aff>Ghent University, Department of Physics and Astronomy</aff>
+<contrib-id contrib-id-type="orcid">0000-0002-4479-4119</contrib-id>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>de Graaff</surname>
+<given-names>Anna</given-names>
+</name>
+<aff>Max-Planck-Institute for Astronomy, Heidelberg</aff>
+<contrib-id contrib-id-type="orcid">0000-0002-2380-9801</contrib-id>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Straatman</surname>
+<given-names>Caroline M. S.</given-names>
+</name>
+<aff>Ghent University, Department of Physics and Astronomy</aff>
+<contrib-id contrib-id-type="orcid">0000-0001-5937-4590</contrib-id>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Bezanson</surname>
+<given-names>Rachel</given-names>
+</name>
+<aff>University of Pittsburgh, Department of Physics and Astronomy</aff>
+</contrib>
+</contrib-group>
+<volume>524</volume>
+<issue>1</issue>
+<abstract>We present a framework to build realistic mock spectroscopic observations for state-of-the-art hydrodynamical simulations, using high spectral resolution stellar population models and full radiative transfer treatment with SKIRT. As a first application, we generate stellar continuum mock observations for the Auriga cosmological zoom simulations emulating integral-field observations from the Sydney-AOO Multi-object Integral Field Spectrograph (SAMI) Galaxy Survey. We perform spectral fitting on our synthetic cubes and compute the resulting rotation velocity (V&lt;SUB&gt;rot&lt;/SUB&gt;) and velocity dispersion within 1R&lt;SUB&gt;e&lt;/SUB&gt; (σ&lt;SUB&gt;e&lt;/SUB&gt;) for a subset of the Auriga sample. We find that the kinematics produced by Auriga are in good agreement with the observations from the SAMI galaxy survey after taking into account the effects of dust and the systematics produced by the observation limitations. We also explore the effects of seeing convolution, inclination, and attenuation on the line-of-sight velocity distribution. For highly inclined galaxies, these effects can lead to an artificial decrease in the measured V/σ by nearly a factor of two (after inclination correction). We also demonstrate the utility of our method for high-redshift galaxies by emulating spatially resolved continuum spectra from the Large Early Galaxy Census (LEGA-C) survey and, looking forward, the European Extremely Large Telescope (E-ELT) High Angular Resolution Monolithic Optical and Near-infrared Integral field spectrograph (HARMONI). Our framework represents a crucial link between the ground truth for stellar populations and kinematics in simulations and the observed stellar continuum observations at low and high redshift.</abstract>
+<fpage>907</fpage>
+<lpage>922</lpage>
+</article-meta>
+</front>
+</article>
+

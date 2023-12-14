@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="4.4.0" xsi:schemaLocation="http://www.crossref.org/schema/4.4.0                                    http://www.crossref.org/schemas/crossref4.4.0.xsd">
+  <head>
+    <doi_batch_id>2023MNRAS.524..907B10.1093/mnras/stad1771</doi_batch_id>
+    <timestamp>20230720161256</timestamp>
+    <depositor>
+      <depositor_name>Publisher via the NASA Astrophysics Data System</depositor_name>
+      <email_address>help@edpsciences.org</email_address>
+    </depositor>
+    <registrant>Publisher via the NASA Astrophysics Data System</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata language="en">
+        <full_title>MNRAS</full_title>
+        <issn>0035-8711</issn>
+      </journal_metadata>
+      <journal_issue>
+        <journal_volume>
+          <volume>524</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>Spatially resolved mock observations of stellar kinematics: full radiative transfer treatment of simulated galaxies</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>Daniela</given_name>
+            <surname>Barrientos Acevedo</surname>
+            <ORCID>0000-0002-1710-1460</ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Arjen</given_name>
+            <surname>van der Wel</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Maarten</given_name>
+            <surname>Baes</surname>
+            <ORCID>
+              <ORCID>0000-0002-3930-2757</ORCID>
+            </ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Robert J. J.</given_name>
+            <surname>Grand</surname>
+            <ORCID>
+              <ORCID>0000-0001-9667-1340</ORCID>
+            </ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Anand Utsav</given_name>
+            <surname>Kapoor</surname>
+            <ORCID>
+              <ORCID>0000-0002-5187-1725</ORCID>
+            </ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Peter</given_name>
+            <surname>Camps</surname>
+            <ORCID>
+              <ORCID>0000-0002-4479-4119</ORCID>
+            </ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Anna</given_name>
+            <surname>de Graaff</surname>
+            <ORCID>
+              <ORCID>0000-0002-2380-9801</ORCID>
+            </ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Caroline M. S.</given_name>
+            <surname>Straatman</surname>
+            <ORCID>
+              <ORCID>0000-0001-5937-4590</ORCID>
+            </ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Rachel</given_name>
+            <surname>Bezanson</surname>
+          </person_name>
+        </contributors>
+        <pages>
+          <first_page>907</first_page>
+          <last_page>922</last_page>
+        </pages>
+        <publisher_item>
+          <identifier id_type="doi">10.1093/mnras/stad1771</identifier>
+        </publisher_item>
+        <doi_data>
+          <doi>10.1093/mnras/stad1771</doi>
+          <resource>
+            <!--No Resource entry has been entered by the user-->
+          </resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
+

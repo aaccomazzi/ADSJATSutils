@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="4.4.0" xsi:schemaLocation="http://www.crossref.org/schema/4.4.0                                    http://www.crossref.org/schemas/crossref4.4.0.xsd">
+  <head>
+    <doi_batch_id>1990A&amp;A...240L...5F</doi_batch_id>
+    <timestamp>20231023165410</timestamp>
+    <depositor>
+      <depositor_name>Publisher via the NASA Astrophysics Data System</depositor_name>
+      <email_address>adshelp@cfa.harvard.edu</email_address>
+    </depositor>
+    <registrant>Publisher via the NASA Astrophysics Data System</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata language="en">
+        <full_title>A&amp;A</full_title>
+        <issn>0004-6361</issn>
+      </journal_metadata>
+      <journal_issue>
+        <journal_volume>
+          <volume>240</volume>
+        </journal_volume>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>The mass function of SS 433.</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>S. N.</given_name>
+            <surname>Fabrika</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>L. V.</given_name>
+            <surname>Bychkova</surname>
+          </person_name>
+        </contributors>
+        <pages>
+          <first_page>L5</first_page>
+        </pages>
+        <publisher_item/>
+        <doi_data>
+          <doi>10.5479/ADS/bib/1990A&amp;A.240L.5F</doi>
+          <resource>https://ui.adsabs.harvard.edu/abs/1990A%26A...240L...5F</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
+

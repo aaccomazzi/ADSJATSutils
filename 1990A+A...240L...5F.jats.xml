@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "https://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher">A&amp;A</journal-id>
+<issn>0004-6361</issn>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="archive">1990A&amp;A...240L...5F</article-id>
+<title-group>
+<article-title>The mass function of SS 433.</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Fabrika</surname>
+<given-names>S. N.</given-names>
+</name>
+<aff>SAO, Special Astrophysical Observatory, Moscow</aff>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Bychkova</surname>
+<given-names>L. V.</given-names>
+</name>
+<aff>SAO, Special Astrophysical Observatory, Moscow</aff>
+</contrib>
+</contrib-group>
+<volume>240</volume>
+<fpage>L5</fpage>
+<permissions />
+<abstract>
+<p>This paper presents results from the He-II-line radial velocity analysis using data from spectral observations of SS 433 made with a 6-m telescope in 1981, 1982, 1986, and 1988, when SS 433 was in a quiescent state. Spectral observations reveal that the He II 4686 A line has two states, one dominated by the disc, and the other dominated by a stream-shock at the adjacent precesson phases. It is estimated that the division of the He II radial-velocity curves into these two types takes place at the precession phases 0.9 and 0.1. The curves reflecting the orbital motion of the compact star are presented.</p>
+</abstract>
+</article-meta>
+</front>
+</article>
